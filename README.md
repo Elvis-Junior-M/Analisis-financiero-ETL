@@ -1,7 +1,7 @@
 # 🧠 Proyectos de Datos
 
 🎯 **Objetivo:**  
-Mostrar dominio del flujo completo de datos: extracción, transformación, carga (ETL) y análisis con Power BI.
+Mostrar el flujo completo de datos: extracción, transformación, carga (ETL) y análisis con Power BI.
 
 ---
 
