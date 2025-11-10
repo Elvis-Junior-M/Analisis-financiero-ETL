@@ -6,9 +6,10 @@ donde se tiene un balance asi
 
 <img width="732" height="1612" alt="Sin título" src="https://github.com/user-attachments/assets/cc667dfa-aeb3-4a0f-a325-5c341b291d90" />
 
-donde se tiene es estructurar para poder utilizarlo en POWER BI
+donde se tiene es estructurar para poder utilizarlo en POWER BI " Ojo que no se toman los totales"
 						
-<img width="1436" height="61" alt="image" src="https://github.com/user-attachments/assets/474f4466-c568-4fb8-9c69-a4f7f5c194a6" />
+<img width="1269" height="397" alt="image" src="https://github.com/user-attachments/assets/87e4cb20-aca5-480d-828f-6212d4313566" />
+
 
 
 ## ⚙️ Tecnologías
