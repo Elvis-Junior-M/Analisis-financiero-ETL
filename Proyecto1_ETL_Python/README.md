@@ -6,7 +6,7 @@ donde se tiene un balance asi
 
 <img width="732" height="1612" alt="Sin título" src="https://github.com/user-attachments/assets/cc667dfa-aeb3-4a0f-a325-5c341b291d90" />
 
-donde se tiene es estructurar para poder utilizarlo en POWER BI
+donde se tiene es estructurar para poder utilizarlo en POWER BI "Ojo que no toman los totales"
 						
 <img width="1269" height="397" alt="image" src="https://github.com/user-attachments/assets/0766abd8-7fd7-4934-9db6-d43d9c306c3e" />
 
