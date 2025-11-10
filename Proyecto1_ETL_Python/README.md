@@ -8,7 +8,8 @@ donde se tiene un balance asi
 
 donde se tiene es estructurar para poder utilizarlo en POWER BI
 						
-<img width="1436" height="61" alt="image" src="https://github.com/user-attachments/assets/474f4466-c568-4fb8-9c69-a4f7f5c194a6" />
+<img width="1269" height="397" alt="image" src="https://github.com/user-attachments/assets/0766abd8-7fd7-4934-9db6-d43d9c306c3e" />
+
 
 
 ## ⚙️ Tecnologías
